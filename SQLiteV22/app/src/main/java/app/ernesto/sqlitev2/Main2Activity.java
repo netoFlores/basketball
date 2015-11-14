@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
-
+//Este es un comentario
 public class Main2Activity extends AppCompatActivity implements View.OnClickListener {
     private Button btnNuevo, btnModificar, btnEliminar, btnMostrar;
     @Override
