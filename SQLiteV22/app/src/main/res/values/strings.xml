@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SQLiteV2</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="clave">Contraseña</string>
+    <string name="action_login">Iniciar</string>
+    <string name="action_registrar">Registrar</string>
+    <string name="action_modificar">Modificar</string>
+    <string name="action_eliminar">Eliminar</string>
+    <string name="action_Mostrar">Mostrar</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_cancelar">Cancelar</string>
+    <string name="title_activity_pantalla_inicio">SQLite</string>
+    <string name="title_activity_main2">Bienvenido </string>
+    <string name="title_activity_main3">Registro</string>
+    <string name="title_activity_main4">Mostrar</string>
+    <string name="title_activity_main5">Main5Activity</string>
+</resources>
